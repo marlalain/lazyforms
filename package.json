@@ -1,0 +1,10 @@
+{
+  "name": "lazyforms",
+  "version": "0.1.0",
+  "description": "Quickly fill out forms with user predefined responses!",
+  "main": "index.js",
+  "repository": "https://github.com/paulo-e/lazyforms",
+  "author": "Paulo Elienay <paulo@pauloelienay.com>",
+  "license": "BSD-3",
+  "private": false
+}
