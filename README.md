@@ -2,6 +2,10 @@
 
 LazyForms is a browser extension to help developers fill out forms quicker and in better ways, using user-defined lists with entries and external APIs with random, default and customized values.
 
+## Current project status
+
+The project is not even near being usable right now unless you hardcoded your own entries. Please check it out later!
+
 ## Install
 
 First build everything:
@@ -14,7 +18,7 @@ yarn # to install
 yarn build
 ```
 
-### Chrome
+### Chrome/Chromium/Ungoogled Chromium
 
 - Go to [chrome://extensions](chrome://extensions)
 - Enable `Developer Mode`
@@ -29,6 +33,6 @@ yarn build
 ### Firefox
 
 - Go to [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)
-- Click on `Developer Mode`
+- Enable `Developer Mode`
 - Click on `Load Temporary Add-on`
 - Open the `./dist/manifest.json` file
